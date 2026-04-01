@@ -1,0 +1,199 @@
+[
+{
+"filter_id":1,
+"products":[{
+             "product_id":10,
+             "product_name":"Iron box",
+             "imgSrc":"image/iron box.webp",
+             "price":5000
+             },
+             {
+             "product_id":11,
+             "product_name":"Fidger",
+             "imgSrc":"image/FRIDGE.jpg",
+             "price":3500
+             },
+             {
+             "product_id":13,
+             "product_name":"TV",
+             "imgSrc":"image/TV.jpg",
+             "price":500
+             },
+             {
+             "product_id":14,
+             "product_name":"Oven",
+             "imgSrc":"image/OVEN.webp",
+             "price":6000
+             },
+             {
+             "product_id":15,
+             "product_name":"Pillows",
+             "imgSrc":"image/Pillow.avif",
+             "price":500
+             },
+             {
+             "product_id":16,
+             "product_name":"Washing machine",
+             "imgSrc":"image/shopping.webp",
+             "price":1000
+             }]
+ },
+ {
+ "filter_id":2,
+ "products":[{
+            "product_id":17,
+            "product_name":"Chapathi",
+            "imgSrc":"image/Chapathi.jpg",
+            "price":3000
+            },
+            {
+            "product_id":18,
+            "product_name":"Coffee",
+            "imgSrc":"image/coffee.jpg",
+            "price":1999
+            },
+            {
+            "product_id":19,
+            "product_name":"Snacks",
+            "imgSrc":"image/snacks.jpg",
+            "price":1500
+            },
+            {
+            "product_id":20,
+            "product_name":" Non-Veg meal's",
+            "imgSrc":"image/food 2.jpg",
+            "price":600
+            },
+            {
+            "product_id":21,
+            "product_name":"KFC",
+            "imgSrc":"image/kfc.jpg",
+            "price":999
+            },
+            {
+            "product_id":22,
+            "product_name":" idli & Dosa",
+            "imgSrc":"image/idli.jpg",
+            "price":300
+            }]
+            
+ },
+ {
+ "filter_id":3,
+ "products":[{
+             "product_id":23,
+             "product_name":"Articale book",
+             "imgSrc":"image/Articale.png",
+             "price":600
+             },
+             {
+             "product_id":24,
+             "product_name":"Story book",
+             "imgSrc":"image/story book.jpg",
+             "price":500
+             },
+             {
+             "product_id":25,
+             "product_name":"Funny book",
+             "imgSrc":"image/funny.jpeg",
+             "price":1000
+             },
+             {
+             "product_id":26,
+             "product_name":"Engineering Maths",
+             "imgSrc":"image/maths book.jpg",
+             "price":3000
+             },
+             {
+             "product_id":27,
+             "product_name":"English Grammar",
+             "imgSrc":"image/english.jpg",
+             "price":1500
+             },
+             {
+             "product_id":28,
+             "product_name":"Environment book",
+             "imgSrc":"image/book3.jpg",
+             "price":600
+             }]
+ },
+ {
+ "filter_id":4,
+ "products":[{
+              "product_id":29,
+              "product_name":"Men jacket",
+              "imgSrc":"image/mens.jpg",
+              "price":399
+              },
+              {
+              "product_id":30,
+              "product_name":"Headphone ",
+              "imgSrc":"image/headphone.jpg",
+              "price":150
+              },
+              {
+              "product_id":31,
+              "product_name":"Shose",
+              "imgSrc":"image/shose.webp",
+              "price":150
+              },
+              {
+              "product_id":32,
+              "product_name":"Men Chain ",
+              "imgSrc":"image/men chain.jpg",
+              "price":399
+              },
+              {
+              "product_id":33,
+              "product_name":"Men Watch",
+              "imgSrc":"image/watch.jpg",
+              "price":999
+              },
+              {
+              "product_id":34,
+              "product_name":"casual",
+              "imgSrc":"image/mens 4.jpg",
+              "price":60
+              }]
+ },
+ {
+ "filter_id":5,
+ "products":[{
+              "product_id":35,
+              "product_name":"Saree",
+              "imgSrc":"image/saree.webp",
+              "price":100
+              },
+              {
+              "product_id":36,
+              "product_name":"Cosmetic",
+              "imgSrc":"image/cosmetic.jpg",
+              "price":199
+              },
+              {
+              "product_id":37,
+              "product_name":"Bangles",
+              "imgSrc":"image/bangles.jpg",
+              "price":499
+              },
+              {
+              "product_id":38,
+              "product_name":"Headbag",
+              "imgSrc":"image/headbag.jpg",
+              "price":499
+              },
+              {
+              "product_id":39,
+              "product_name":"Women Watch",
+              "imgSrc":"image/women watch.jpg",
+              "price":399
+              },
+              {
+              "product_id":40,
+              "product_name":"Sudithar",
+              "imgSrc":"image/sudithar.jpg",
+              "price":399
+              }]
+ 
+}
+]
